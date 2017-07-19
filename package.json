@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/thisismattmiller/case-law-regex-lib#readme",
   "dependencies": {
-    "fold-to-ascii": "^4.0.0"
+    "fold-to-ascii": "^4.0.0",
+    "glob": "^7.1.2"
   }
 }
